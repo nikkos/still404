@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is a test
+This is a test. A second tesst
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
